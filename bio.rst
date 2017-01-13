@@ -1,0 +1,6 @@
+Doug Latornell is a professional engineer with post-graduate degrees in experimental and computational fluid mechanics and modeling and control of robotic manipulators.
+He works with the Mesoscale Ocean and Atmosphere Dynamics (MOAD) group at the University of British Columbia as a Research Software Engineer and as a freelance software developer.
+With the MOAD group he has developed a collection of software automation tools to help researchers run the NEMO ocean model easily and reproducibly on platforms ranging from laptops and local workstations to cloud and HPC clusters.
+He has also developed a software automation framework for running the NEMO model as a research operational system - daily model runs with the most up-to-date available surface forcing and open boundary conditions from real-time data sources and other operational model product web services such as Environment Canada, Mercator Ocean, and Live Ocean.
+High resolution ocean models on both the Pacific (Salish Sea) and Atlantic (Gulf of Maine and Scotian Shelf) coasts are presently using that framework to produce daily nowcast/forecast runs.
+Doug is a Software Carpentry instructor and is the maintainer of the SWC Version Control with Mercurial lesson.
